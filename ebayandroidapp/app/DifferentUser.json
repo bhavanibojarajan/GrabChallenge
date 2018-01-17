@@ -1,0 +1,69 @@
+{
+"Crendentials": [
+  {
+    "usertype": "Unpaid User",
+    "username": "TestQA-Unpaid@gmail.com",
+    "password": "12345678",
+        "title": "EXPIRED",
+    "ihaveacode": "what's your unique program id?",
+    "subsription" : "UPGRADE"
+  },
+  {
+    "usertype": "Paying User",
+    "username": "TestQA-Paying@gmail.com",
+    "password": "12345678",
+        "title": "PREMIUM",
+    "ihaveacode": "what's your unique program id?",
+    "subsription" : "PRACTISE"
+  },
+  {
+    "usertype": "Effective Trial User",
+    "username": "TestQA-EffectiveTrial@gmail.com",
+    "password": "12345678",
+        "title": "TRIAL",
+    "ihaveacode": "what's your unique program id?",
+    "subsription" : "UPGRADE"
+  },
+  {
+    "usertype": "Expired Trial User",
+    "username": "TestQA-ExpiredTrial@gmail.com",
+    "password": "12345678",
+      "title": "EXPIRED",
+    "ihaveacode": "what's your unique program id?",
+    "subsription" : "UPGRADE"
+
+  },
+  {
+    "usertype": "EffectiveB2B User",
+    "username": "TestQA-EffectiveB2B@gmail.com",
+    "password": "12345678",
+      "title": "PREMIUM",
+    "ihaveacode": "210",
+    "subsription" : "nosubscription"
+  },
+  {
+    "usertype": "ExpiredB2B User",
+    "username": "TestQA-ExpiredB2B@gmail.com",
+    "password": "12345678",
+      "title": "EXPIRED",
+    "ihaveacode": "what's your unique program id?",
+    "subsription" : "UPGRADE"
+  },
+  {
+    "usertype": "EffectiveBeta User",
+    "username": "TestQA-EffectiveBeta@gmail.com",
+    "password": "12345678",
+      "title": "BETA",
+    "ihaveacode": "what's your unique program id?",
+    "subsription" : "BETA"
+  },
+  {
+    "usertype": "ExpiredBeta User",
+    "username": "TestQA-ExpiredBeta@gmail.com",
+    "password": "12345678",
+      "title": "EXPIRED",
+    "ihaveacode": "what's your unique program id?",
+    "subsription" : "UPGRADE"
+  }
+]
+}
